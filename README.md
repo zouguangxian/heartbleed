@@ -1,2 +1,1 @@
-
-nmap -p 443 -sC --script ./heartbleed.nse IP
+nmap -p 443 -sC --script ./nmap/heartbleed.nse IP
